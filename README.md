@@ -3,7 +3,9 @@ Este repositório contém o desenvolvimento do trabalho em grupo realizado para 
 
 ## Integrantes
 Giovanna Lima Torres Guasch
+
 Natalie Santana Dias Abreu
+
 Paloma Dias de Carvalho
 
 ## Professor
