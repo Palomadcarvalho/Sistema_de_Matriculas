@@ -13,8 +13,17 @@ João Paulo Carneiro Aramuni
 
 ## Caso de Uso
 
+<img width="1047" height="711" alt="image" src="https://github.com/user-attachments/assets/421ad0ad-2bc9-4e37-a1e0-88009a5f72aa" />
+
 
 ## Histórias de Usuário
 
+- SECRETARIA: quero cadastrar cursos, disciplinas, professores e alunos para organizar o semestre e gerar o currículo semestral para definir as disciplinas disponíveis.
+
+- ALUNO: como aluno, quero acessar o sistema com login e senha para me matricular com segurança em até 4 obrigatórias e 2 optativas para montar minha grade. Desejo cancelar disciplinas durante o período de matrícula para ajustar meu semestre e ser notificado se uma disciplina for cancelada para escolher outra.
+
+- SISTEMA: como sistema, quero bloquear matrícula após 60 alunos para respeitar o limite, cancelar disciplinas com menos de 3 alunos para evitar turmas vazias e avisar o sistema de cobranças após a matrícula para gerar o boleto do aluno.
+
+- PROFESSOR: como professor, quero acessar minhas disciplinas para ver os alunos matriculados.
 
 ## Diagrama de Classes
