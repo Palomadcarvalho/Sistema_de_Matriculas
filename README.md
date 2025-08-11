@@ -22,8 +22,6 @@ João Paulo Carneiro Aramuni
 
 - ALUNO: como aluno, quero acessar o sistema com login e senha para me matricular com segurança em até 4 obrigatórias e 2 optativas para montar minha grade. Desejo cancelar disciplinas durante o período de matrícula para ajustar meu semestre e ser notificado se uma disciplina for cancelada para escolher outra.
 
-- SISTEMA: como sistema, quero bloquear matrícula após 60 alunos para respeitar o limite, cancelar disciplinas com menos de 3 alunos para evitar turmas vazias e avisar o sistema de cobranças após a matrícula para gerar o boleto do aluno.
-
 - PROFESSOR: como professor, quero acessar minhas disciplinas para ver os alunos matriculados.
 
 ## Diagrama de Classes
