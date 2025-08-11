@@ -18,10 +18,12 @@ João Paulo Carneiro Aramuni
 
 ## Histórias de Usuário
 
-- SECRETARIA: quero cadastrar cursos, disciplinas, professores e alunos para organizar o semestre e gerar o currículo semestral para definir as disciplinas disponíveis.
+- SECRETARIA (HS01): quero cadastrar cursos, disciplinas, professores e alunos para organizar o semestre e gerar o currículo semestral para definir as disciplinas disponíveis.
 
-- ALUNO: como aluno, quero acessar o sistema com login e senha para me matricular com segurança em até 4 obrigatórias e 2 optativas para montar minha grade. Desejo cancelar disciplinas durante o período de matrícula para ajustar meu semestre e ser notificado se uma disciplina for cancelada para escolher outra.
+- ALUNO (HS02): como aluno, quero acessar o sistema com login e senha para me matricular com segurança em até 4 obrigatórias e 2 optativas para montar minha grade. Desejo cancelar disciplinas durante o período de matrícula para ajustar meu semestre e ser notificado se uma disciplina for cancelada para escolher outra.
 
-- PROFESSOR: como professor, quero acessar minhas disciplinas para ver os alunos matriculados.
+- PROFESSOR (HS03): como professor, quero acessar minhas disciplinas para ver os alunos matriculados.
 
+- USUÁRIO (HS04): como usuário, desejo fazer login no sistema.
+  
 ## Diagrama de Classes
