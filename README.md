@@ -28,5 +28,6 @@ João Paulo Carneiro Aramuni
   
 ## Diagrama de Classes
 
-<img width="1047" height="711" alt="image" src="https://github.com/user-attachments/assets/421ad0ad-2bc9-4e37-a1e0-88009a5f72a](https://github.com/Palomadcarvalho/Sistema_de_Matriculas/blob/main/01.%20Documentação/Diagrama%20de%20Classes.jpeg" />
+<img width="1047" height="711" alt="image" src="![Diagrama de Classes](https://github.com/user-attachments/assets/1e2ac31b-c681-4532-ab06-848cb0fa3dad)
+" />
 
