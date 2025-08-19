@@ -32,7 +32,7 @@ João Paulo Carneiro Aramuni
 
 
 ## Prótotipo 
-<img width="800" height="711" alt="image" src="/documentacao/  " />
+<img width="800" height="711" alt="image" src="https://github.com/Palomadcarvalho/Sistema_de_Matriculas/blob/main/01.%20Documenta%C3%A7%C3%A3o/wireframe%20-%20p%C3%A1gina%2001%20-%20Entrada.png" />
 <img width="800" height="711" alt="image" src="/documentacao/  " />
 <img width="800" height="711" alt="image" src="/documentacao/  " />
 
