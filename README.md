@@ -1,5 +1,5 @@
 # LABORATORIO 01 - Sistema de Matriculas
-Este repositório contém o desenvolvimento do trabalho em grupo realizado para a disciplina "Laboratório de Desenvolvimento de Software", do 4º período do curso de Engenharia de Software da PUC - Minas.
+O processo de matrícula é uma etapa essencial na organização acadêmica, pois garante que alunos, disciplinas, professores e turmas estejam devidamente registrados e integrados. Tradicionalmente, esse processo pode ser burocrático e suscetível a erros manuais, o que reforça a importância da automatização por meio de sistemas computacionais. Este trabalho tem como objetivo desenvolver um sistema simples de matrícula, que permita cadastrar alunos, disciplinas e professores, além de possibilitar que os estudantes realizem suas matrículas de forma prática e segura. 
 
 ## Integrantes
 Giovanna Lima Torres Guasch
@@ -30,3 +30,10 @@ João Paulo Carneiro Aramuni
 
 <img width="1047" height="711" alt="image" src="https://github.com/user-attachments/assets/1e2ac31b-c681-4532-ab06-848cb0fa3dad" />
 
+
+## Prótotipo 
+<img width="800" height="711" alt="image" src="/documentacao/  " />
+<img width="800" height="711" alt="image" src="/documentacao/  " />
+<img width="800" height="711" alt="image" src="/documentacao/  " />
+
+Link para ver o prótotipo completo: https://www.figma.com/design/h1N1Ns7GLksbmsRjhGYBrg/Wireframe---Sistema-de-matricula?node-id=0-1&t=lIAveLsLZhyz4CqL-1
