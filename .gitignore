@@ -1,0 +1,7 @@
+.env
+db/pgdata/
+*.dump
+*.bak
+*.sql~
+.DS_Store
+Thumbs.db
