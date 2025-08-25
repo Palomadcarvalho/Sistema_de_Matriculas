@@ -1,4 +1,3 @@
--- V1: Esquema base — Sistema de Matrículas (PostgreSQL)
 CREATE TABLE IF NOT EXISTS usuario (
   id SERIAL PRIMARY KEY,
   nome TEXT NOT NULL,
