@@ -1,4 +1,3 @@
--- Usuário da aplicação com privilégios mínimos
 DO $$
 BEGIN
   IF NOT EXISTS (SELECT FROM pg_roles WHERE rolname = 'matriculas_app') THEN
