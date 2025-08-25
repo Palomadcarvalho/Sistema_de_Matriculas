@@ -1,0 +1,11 @@
+-- Usuário da aplicação com privilégios mínimos
+DO $$
+BEGIN
+  IF NOT EXISTS (SELECT FROM pg_roles WHERE rolname = 'matriculas_app') THEN
+    CREATE ROLE matriculas_app LOGIN PASSWORD 'changeme';
+  END IF;
+END $$;
+GRANT USAGE ON SCHEMA public TO matriculas_app;
+GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA public TO matriculas_app;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public
+GRANT SELECT, INSERT, UPDATE, DELETE ON TABLES TO matriculas_app;
