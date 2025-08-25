@@ -1,4 +1,3 @@
--- V2: Triggers e funções
 CREATE OR REPLACE FUNCTION chk_capacidade() RETURNS trigger AS $$
 BEGIN
   IF (SELECT COUNT(*) FROM matricula 
