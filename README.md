@@ -35,6 +35,6 @@ João Paulo Carneiro Aramuni
 <img width="1348" height="700" alt="image" src="https://github.com/user-attachments/assets/a2cabde1-383e-4ace-b47c-e528d655f24b" />
 
 ## Prótotipo 
-<img width="800" height="650" alt="image" src="https://github.com/Palomadcarvalho/Sistema_de_Matriculas/blob/main/01.%20Documenta%C3%A7%C3%A3o/wireframe%20-%20p%C3%A1gina%2001%20-%20Entrada.png" style="margin-right: 30px"/>
+<img width="800" height="650" alt="image" src="" style="margin-right: 30px"/>
 
-Link para ver o prótotipo completo: https://www.figma.com/design/h1N1Ns7GLksbmsRjhGYBrg/Wireframe---Sistema-de-matricula?node-id=0-1&t=lIAveLsLZhyz4CqL-1
+Link para ver o prótotipo completo: https://www.figma.com/design/h1N1Ns7GLksbmsRjhGYBrg/Wireframe---Sistema-de-matricula?node-id=0-1&t=ugL1b8eKHOZkQXuq-1
