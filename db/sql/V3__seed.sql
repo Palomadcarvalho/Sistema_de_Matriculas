@@ -1,4 +1,3 @@
--- V3: Seeds mínimos para começar
 INSERT INTO usuario (nome, email, senha_hash, papel) VALUES
 ('Alice Aluna','alice@ex.com','<bcrypt>', 'ALUNO'),
 ('Pedro Professor','pedro@ex.com','<bcrypt>', 'PROFESSOR'),
